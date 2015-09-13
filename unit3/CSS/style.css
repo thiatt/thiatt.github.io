@@ -1,6 +1,6 @@
 * {
-	margin:0;
-	padding:0;
+	margin: 1em;
+	padding: 1em;
 	box-sizing:border-box;
 	background-color: #d1dbbd;
 }
@@ -19,15 +19,17 @@ div {
 }
 
 img {
-	width: 400px;
-	padding: 1em;
+	width: 600px;
+	padding: 0;
 }
 h1{
 	font-weight: bold;
+	text-align: center;
+	padding-bottom: 2em;
 	
 }
 ol {
-	padding-left:1.25em;
+	padding-left: 2em;
 }
 #second {
 	font-size: 1.5em;
