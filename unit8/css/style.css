@@ -18,7 +18,7 @@ body {
  }
  img {
  	 width: 100%;
- 	 display: block;
+ 	 display: inline-block;
   }
 .thumbnail{
 	width: 100%;
@@ -60,10 +60,6 @@ footer {
 		font-size: 32px;
 	}
 	.thumbnail {
-		display: block;
-		padding: none;
-	}
-	.thumbnail2 {
 		display: block;
 		padding: none;
 	}
